@@ -1,4 +1,4 @@
-# genAI-engineering-assistant
+# Hackathon: genAI-engineering-assistant
 This was my first hackathon I ever participated: an AI hackathon called SIMVEC organized by VDI ("Verein deutscher Ingenieure") in Baden-Baden at the Kongresshaus. Me and my teammate Daniel built a generative AI Engineering Assistant 💻. Dive with us into our exciting journey! In collaboration with Context64AI and their software solutions, Data Context Hub and M4AI, we developed an intelligent chatbot in record time — an AI Engineering Assistant designed to support engineers in their daily tasks.
 
 From concept to implementation, discover how we’re innovating with AI in the field of engineering. Check out our work and explore the potential of AI-driven solutions for engineering challenges! 
